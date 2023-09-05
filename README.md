@@ -1,5 +1,5 @@
-# ParallexWebsite
-  This is a ParallexWebsite it have some adventure activities which you can access(read) by scrolling.
+# ParallaxWebsite
+  This is a ParallaxWebsite it have some adventure activities which you can access(read) by scrolling.
 # Some features of this project are :
 ~ It moves by scrolling.
 
